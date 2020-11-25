@@ -1,0 +1,4 @@
+자세한 사용방법은 ppt에 적혀있습니다.
+
+1. chatServer/ChatServer.java 를 실행시킵니다
+2. UI/Home.java 를 실행시킵니다.
