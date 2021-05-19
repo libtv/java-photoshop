@@ -23,10 +23,10 @@
 </ul>
 
 <h1>결과</h1>
-<img src="./img/1.png" width="300" height="501">
-<img src="./img/2.png" width="300" height="501"/>
-<img src="./img/3.png" width="300" height="501"/>
-<img src="./img/4.png" width="300" height="501"/>
-<img src="./img/5.png" width="300" height="501"/>
-<img src="./img/6.png" width="300" height="501"/>
-<img src="./img/7.png" width="300" height="501"/>
+<img src="./img/1.PNG" />
+<img src="./img/2.PNG" />
+<img src="./img/3.PNG" />
+<img src="./img/4.PNG" />
+<img src="./img/5.PNG" />
+<img src="./img/6.PNG" />
+<img src="./img/7.PNG" />
